@@ -1,6 +1,7 @@
 {
-  "name": "graphiql",
+  "name": "@advinans/graphiql",
   "version": "0.12.0",
+  "private": false,
   "description": "An graphical interactive in-browser GraphQL IDE.",
   "contributors": [
     "Hyohyeon Jeong <asiandrummer@fb.com>",
